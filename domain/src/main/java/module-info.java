@@ -1,4 +1,5 @@
-module example.org.hexagonal.domain {
+module domain {
+
     requires lombok;
 
     exports data;
